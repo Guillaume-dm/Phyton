@@ -3,4 +3,4 @@
 Fichiers disponibles : </br>
 ○ Suite de Fibonnaci </br>
 ○ Suite du Héron d'Alexandre </br>
-○ Test de positivité (diffusion pour le 21/12/2020) </br>
+○ Test de positivité </br>
