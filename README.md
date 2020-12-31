@@ -5,3 +5,4 @@ Fichiers disponibles : </br>
 ○ Suite du Héron d'Alexandre </br>
 ○ Test de positivité </br>
 ○ Suppression par multiples (exercice utilisant les tableaux à 2 dimensions) </br>
+○ Jeu du coffre-fort à 3 chiffres </br>
