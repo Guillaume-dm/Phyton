@@ -1,0 +1,10 @@
+for k in range (0,11) :#Donne les résultats des table de multiplication de 0 à 10. 
+    nb=0
+    print ("-------------------------------")
+    print ("Table de multiplication de", k, ": ")
+    print ("-------------------------------")
+    while (nb<=10) :
+        resultat=k*nb
+        print ("           ",resultat)
+        nb=nb+1
+print("-----------------------------") #Sert à séparer les tables de k à k+1
