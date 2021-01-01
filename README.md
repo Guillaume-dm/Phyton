@@ -6,3 +6,4 @@ Fichiers disponibles : </br>
 ○ Test de positivité </br>
 ○ Suppression par multiples (exercice utilisant les tableaux à 2 dimensions) </br>
 ○ Jeu du coffre-fort à 3 chiffres </br>
+○ Programme donnant les résultats des tables de multifiplication de 0 à 10 </br>
